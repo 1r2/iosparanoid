@@ -31,9 +31,9 @@ Blocking iOS from connecting to Apple unnecessarily.
 
 * Google Ads
 * Amazon Ads
-* Crashlytics.com
-* Appsflyer.com
-* Flurry.com
+* Crashlytics
+* Appsflyer
+* Flurry
 * Combined with UHB 1.3.0 by Thireus
 
 ## References & Credits
