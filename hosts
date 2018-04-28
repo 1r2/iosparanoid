@@ -112,7 +112,6 @@
 :: www.googletagservices.com
 :: googleadapis.l.google.com
 :: gstaticadssl.l.google.com
-:: plus.l.google.com
 :: www.googletagmanager.com
 :: www-googletagmanager.l.google.com
 :: www-google-analytics.l.google.com
@@ -128,7 +127,6 @@
 :: alt1-safebrowsing.google.com
 :: alt2-safebrowsing.google.com
 :: alt3-safebrowsing.google.com
-
 :: stats.g.doubleclick.net
 :: securepubads.g.doubleclick.net
 :: pubads.g.doubleclick.net
@@ -136,6 +134,7 @@
 :: googleads2.g.doubleclick.net
 :: googleads4.g.doubleclick.net
 :: static.doubleclick.net
+
 :: settings.crashlytics.com
 :: reports.crashlytics.com
 :: e.crashlytics.com
@@ -267,7 +266,6 @@
 0 www.googletagservices.com
 0 googleadapis.l.google.com
 0 gstaticadssl.l.google.com
-0 plus.l.google.com
 0 www.googletagmanager.com
 0 www-googletagmanager.l.google.com
 0 www-google-analytics.l.google.com
@@ -283,7 +281,6 @@
 0 alt1-safebrowsing.google.com
 0 alt2-safebrowsing.google.com
 0 alt3-safebrowsing.google.com
-
 0 stats.g.doubleclick.net
 0 securepubads.g.doubleclick.net
 0 pubads.g.doubleclick.net
@@ -291,6 +288,7 @@
 0 googleads2.g.doubleclick.net
 0 googleads4.g.doubleclick.net
 0 static.doubleclick.net
+
 0 settings.crashlytics.com
 0 reports.crashlytics.com
 0 e.crashlytics.com
