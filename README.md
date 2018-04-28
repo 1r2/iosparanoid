@@ -1,4 +1,4 @@
-### iosparanoid
+# iosparanoid
 
 Blocking iOS from connecting to APPLE unnecessarily.
 
@@ -24,6 +24,7 @@ Blocking iOS from connecting to APPLE unnecessarily.
 * Apple Pay
 * APNS (Apple Push Notification server)
 * iMessage
+* Facetime Audio
 * Sideloading Apps with Cydia Impactor
 
 ## Additionally Blocking some Ads/Tracking servers
@@ -32,6 +33,7 @@ Blocking iOS from connecting to APPLE unnecessarily.
 * Amazon Ads
 * Crashlytics.com
 * Appsflyer.com
+* Flurry.com
 * Combined with UHB 1.3.0 by Thireus
 
 ## References & Credits
