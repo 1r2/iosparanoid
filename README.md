@@ -1,4 +1,4 @@
-## iosparanoid
+### iosparanoid
 
 Blocking iOS from connecting to APPLE unnecessarily.
 
@@ -22,10 +22,19 @@ Blocking iOS from connecting to APPLE unnecessarily.
 
 * AppStore
 * Apple Pay
-* APNS (Push notification server)
+* APNS (Apple Push Notification server)
 * iMessage
+* Sideloading Apps with Cydia Impactor
 
-## Resources
+## Additionally Blocking some Ads/Tracking servers
+
+* Google Ads
+* Amazon Ads
+* Crashlytics.com
+* Appsflyer.com
+* Combined with UHB 1.3.0 by Thireus
+
+## References & Credits
 
 * https://www.richard-purves.com/2016/09/10/apple-services/
 * https://github.com/l1k/osxparanoia
