@@ -1,6 +1,6 @@
 # iosparanoid
 
-Blocking iOS from connecting to Apple unnecessarily.
+Hosts file for blocking iOS unnecessarily connections to Apple.
 
 ## Installation
 
