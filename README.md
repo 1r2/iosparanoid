@@ -1,12 +1,12 @@
 # iosparanoid
 
-Blocking iOS from connecting to APPLE unnecessarily.
+Blocking iOS from connecting to Apple unnecessarily.
 
 ## Installation
 
-* Backup your host file at /etc/hosts
-* Replace <Insert-Here> to you location server, you can get those number using Pi-Hole.
-* Place hosts file at /etc/hosts
+* Backup your host file at `/etc/hosts`.
+* Replace `<Insert-Here>` to you location server, you can get those number using Pi-Hole.
+* Place hosts file at `/etc/hosts`.
 
 ## Services blocked
 
