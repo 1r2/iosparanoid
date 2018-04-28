@@ -5,7 +5,7 @@ Hosts file for blocking iOS unnecessarily connections to Apple.
 ## Installation
 
 * Backup your host file at `/etc/hosts`.
-* Replace `<Insert-Here>` to you location server, you can get those number using Pi-Hole.
+* Replace `<Insert-Here>` to you location server, you can get those values using Pi-Hole or similar.
 * Place hosts file at `/etc/hosts`.
 
 ## Services Blocked
