@@ -8,13 +8,13 @@ Blocking iOS from connecting to Apple unnecessarily.
 * Replace `<Insert-Here>` to you location server, you can get those number using Pi-Hole.
 * Place hosts file at `/etc/hosts`.
 
-## Services blocked
+## Services Blocked
 
 * Location Service
 * iCloud
 * Calendar
 * Spotlight
-* Time sync
+* Time Sync
 * iOS Updates check
 * AirPort Utility
 
