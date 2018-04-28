@@ -1,6 +1,6 @@
-127.0.0.1		localhost
+127.0.0.1					localhost
 255.255.255.255 	broadcasthost
-::1		localhost
+::1								localhost
 
 :: xp.apple.com
 :: mesu.apple.com
@@ -9,7 +9,7 @@
 :: apfw.apple.com
 :: smoot.apple.com
 :: api.smoot.apple.com
-:: api-glb-<insertyoulocation>.smoot.apple.com
+:: api-glb-<Insert-Here>.smoot.apple.com
 :: pancake.apple.com
 :: feedback.apple.com
 :: guzzoni.apple.com
@@ -66,13 +66,13 @@
 :: caldav.icloud.com
 :: statici.icloud.com
 :: keyvalueservice.icloud.com
-:: p<insertyournumber>-quota.icloud.com
-:: p<insertyournumber>-fmf.icloud.com
-:: p<insertyournumber>-ckdatabase.icloud.com
-:: p<insertyournumber>-ckshare.icloud.com
-:: p<insertyournumber>-fmfmobile.icloud.com
-:: p<insertyournumber>-escrowproxy.icloud.com
-:: p<insertyournumber>-keyvalueservice.icloud.com
+:: p<Insert-Here>-quota.icloud.com
+:: p<Insert-Here>-fmf.icloud.com
+:: p<Insert-Here>-ckdatabase.icloud.com
+:: p<Insert-Here>-ckshare.icloud.com
+:: p<Insert-Here>-fmfmobile.icloud.com
+:: p<Insert-Here>-escrowproxy.icloud.com
+:: p<Insert-Here>-keyvalueservice.icloud.com
 :: icloud.cdn-apple.com
 :: feedbackws.icloud.com
 
@@ -163,7 +163,7 @@
 0 apfw.apple.com
 0 smoot.apple.com
 0 api.smoot.apple.com
-0 api-glb-<insertyoulocation>.smoot.apple.com
+0 api-glb-<Insert-Here>.smoot.apple.com
 0 pancake.apple.com
 0 feedback.apple.com
 0 guzzoni.apple.com
@@ -220,13 +220,13 @@
 0 caldav.icloud.com
 0 statici.icloud.com
 0 keyvalueservice.icloud.com
-0 p<insertyournumber>-quota.icloud.com
-0 p<insertyournumber>-fmf.icloud.com
-0 p<insertyournumber>-ckdatabase.icloud.com
-0 p<insertyournumber>-ckshare.icloud.com
-0 p<insertyournumber>-fmfmobile.icloud.com
-0 p<insertyournumber>-escrowproxy.icloud.com
-0 p<insertyournumber>-keyvalueservice.icloud.com
+0 p<Insert-Here>-quota.icloud.com
+0 p<Insert-Here>-fmf.icloud.com
+0 p<Insert-Here>-ckdatabase.icloud.com
+0 p<Insert-Here>-ckshare.icloud.com
+0 p<Insert-Here>-fmfmobile.icloud.com
+0 p<Insert-Here>-escrowproxy.icloud.com
+0 p<Insert-Here>-keyvalueservice.icloud.com
 0 icloud.cdn-apple.com
 0 feedbackws.icloud.com
 
