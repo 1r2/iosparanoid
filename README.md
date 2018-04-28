@@ -23,6 +23,7 @@ Blocking iOS from connecting to Apple unnecessarily.
 * AppStore
 * Apple Pay
 * APNS (Apple Push Notification server)
+* Mail/Notes App
 * iMessage
 * Facetime Audio
 * Sideloading Apps with Cydia Impactor
